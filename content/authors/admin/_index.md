@@ -40,6 +40,6 @@ title: Daniel Fitton
 
 Hi! I am Dan. I am an analytics professional and Liverpool fan, from the north-west of England. 
 
-I enjoy exploring and analysing data to acquire knowledge that is used to support and improve decision-making. This is the primary pupose of data science and analytics.
+I enjoy acquiring knowledge through exploring and analysing data. Data is essential for reaching the truth and supporting decision-making, which is the primary pupose of data science and analytics.
 
 My key skills include data analysis, visualisation, modelling and wrangling; machine learning, and dashboard design.
