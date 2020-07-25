@@ -1,0 +1,52 @@
+---
+title: Thoughts on Winston Churchill
+author: Daniel Fitton
+date: '2020-07-25'
+slug: thoughts-on-winston-churchill
+categories:
+  - Personal
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+image:
+  focal_point: Smart
+---
+
+Since moving to London in April 2019, one of the things that I have enjoyed most has been exploring the history and culture of the city. Probably one of my favourite experiences so far has been a visit to Churchill War Rooms museum in Westminster.  
+
+The War Rooms were an underground bunker used by Churchill and his inner circle during the Second World War, as seen in the film *Darkest Hour*.  
+
+The museum consists of five main areas: 
+
+* The Churchill Museum – a biographical museum of Churchill’s life
+
+* Churchill's bedroom – where the Prime Minister studied and slept (although rarely)
+
+* The Transatlantic Telephone Room – where he secretly communicated with US President Roosevelt
+
+* The Map Room – where military officers and statisticians gathered intelligence
+
+* The Cabinet Room – where the cabinet would meet and make decisions. As Churchill himself said: “This is the room from which I will direct the war.”
+
+As a data professional, what I particularly found interesting was the Map Room. This was a room filled with maps, statistics and visualisations to understand the facts and reality of what was happening. There was data on things such as supplies, casualties, progress of fleets and vulnerable locations, all of which would have been vital in supporting Churchill’s strategic decision making.
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1193458878375223296')
+```
+
+It is intersting to think that at a time when stakes were at its highest, Churchill surrounded himself with the data scientists of the day to provide him with crucial insights and information he would need to help him with the war effort.   
+
+Needless to say, this was a time when there were no statistical tools or visualisation software; no data lakes or data warehouses; no R or Python; not even computers or printers. Everything was hand-drawn and meticulously written in pen and paper. This shows that quality of data is more important than quantity; and that curiosity and leadership is superior to software and technology.
+
+At the gift shop at the end of the museum, I purchased a red fridge magnet that says: ‘ACTION THIS DAY’, a label Churchill would use as an inspirational call to himself and his colleagues to take action and get things done. You only have to read some of his great quotes, such as “never surrender” and “if you’re going through hell, keep going” to get an idea of how motivational and witty he was. He united the country with his words, giving the public the confidence to defend their country and the rest of Europe. 
+
+For these reasons, along with the fact that he played a significant role in defeating Hitler’s Nazi regime; it is very surprising to me that it is now somewhat controversial to view Churchill as a heroic figure. Recently, the Churchill statue in Parliament Square was defaced with the claim that he was a racist, while others claim that he was a war monger and shouldn’t be celebrated.   
+
+Although, he no doubt made some mistakes and held views which we would all find troubling by today’s standards; personally, I think that we should have an enormous amount of gratitude for the fact that he helped save our civilisation, freedom and democracy.  
+
+There was a survey done by YouGov in October 2018 which questioned the public’s view on Winston Churchill. According to the poll, 47% of the British public have a largely positive view of Churchill; 27% have a mixed view; 21% don’t know; and 5% have a largely negative view of him. I genuinely believe that this opinion poll should be conducted each year as it is the best indicator to measure British sanity.
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1269896392396484609')
+```
