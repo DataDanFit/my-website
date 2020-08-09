@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-04-26"
   date_end = ""
   description = """
-  Adatis are a Microsoft Gold Partner consultancy specialising in data analytics and engineering.
+  Adatis are a Microsoft Gold Partner consultancy specialising in data engineering and analytics.
 
-  At Adatis I have worked with various clients in a variety of sectors, including education, government,   aviation, and finance.
+  At Adatis I have worked with various clients in a variety of sectors, including education, government, aviation, and finance.
   The projects I tend to be involved in are either Power BI, data science, or modern data warehousing.
   """
 

@@ -10,7 +10,7 @@ education:
   - course: BA Philosophy and Politics (First)
     institution: Manchester Metropolitan University
     year: 2013-16
-email: "dfitton.10@gmail.com"
+email: dfitton.10@gmail.com
 interests:
 - Data Science
 - Football
@@ -19,7 +19,7 @@ interests:
 - Travelling
 organizations:
 - name: Adatis
-  url: "https://adatis.co.uk/"
+  url: https://adatis.co.uk/
 role: Data Analytics Constultant
 social:
 - icon: envelope
@@ -40,6 +40,6 @@ title: Daniel Fitton
 
 Hi! I am Dan. I am an analytics professional and Liverpool fan, from the north-west of England. 
 
-I enjoy acquiring knowledge through exploring and analysing data. Data is essential for reaching the truth and supporting decision-making, which is the primary pupose of data science and analytics.
+I enjoy exploring and analysing data to acquire knowledge and insights. Data is essential for reaching the truth and supporting decision-making, which is the primary pupose of data science and analytics.
 
 My key skills include data analysis, visualisation, modelling and wrangling; machine learning, and dashboard design.
