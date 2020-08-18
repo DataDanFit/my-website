@@ -1,0 +1,67 @@
+---
+title: 'Atomic Habits: Take-home Lessons'
+author: Daniel Fitton
+date: '2020-08-18'
+slug: atomic-habits-take-home-lessons
+categories:
+  - Personal
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+image:
+  focal_point: Smart
+---
+One of the best self-help books that I have read is *Atomic Habits* by James Clear. The book provides strong, science-based guidance on self-improvement that is extremely practical and easy to implement. Whether it be improving your health, knowledge, productivity, relationships, or whatever, I recommend everyone reads it. 
+   
+In this post, I'd like to summarise some of the key concepts of the book as I understand them and highlight the main take-home lessons that I found useful.
+   
+### You do not rise to the level of your goals. You fall to the level of your systems
+The fundamental message of Atomic Habits is that success is defined by our systems, not our goals. Goals are the results you want to achieve. Systems are the processes that lead you to the result. What we often hear is that the key to success is to set specific, actionable goals to work towards. Goal setting is useful, not least because it provides direction and something to aim towards; however, ultimately the key to success is systems, processes and consistency.
+   
+To clarify this point, think of any competitive sport. The participants usually have the same goal – they each want to win. However, the main variable in determining who will win is typically whoever is better prepared. How much did they practice? How disciplined were they? Who had the better strategy?
+   
+Furthermore, goals are too short-term. They are momentary. Once you achieve a goal, what then? I often find that achieving a goal is not actually as fulfilling as I expected. If I do feel fulfilled, it only lasts a short amount of time. Systems, however, are continuous. As Clear says, they are a lifetime to live, rather than a finish line to cross.
+   
+### Tiny changes make a big difference
+Too often we think that massive success requires massive action. Clear argues that actually, the best way to succeed is to consistently make small improvements each and every day over a long span of time. These small improvements accumulate over time, just like compound interest. Starting from now, if you were to better yourself by just 1 percent every day, mathematically, in a years’ time you would be 37 times better.
+   
+We often rely too much on motivation to get better. However, motivation is a bad metric to rely on because it is volatile. Motivation comes and goes naturally, so you shouldn’t beat yourself up too much when you don’t feel motivated. A system of small improvements is a lot more sustainable. All it requires is consistency of behaviour and patience.
+   
+Our day is filled with small decisions that seem insignificant on the surface and are easy to dismiss. However, these choices are more important than you think, because they are either a vote to be better, or a vote to be worse. The choices you take accumulate over time and your actions ultimately shape your identity. If you consider who you wish to become when making decisions, it becomes easier to make the right choice.   
+    
+### Atomic habits and the four laws of behaviour change
+When decisions are repeated regularly, they are what the author refers to as atomic habits. Atomic habits are repetitive and automatic. They are small and easy to do, but they are vital to achieve results. A habit is formed when you automate the response to a common situation. You can have good habits and bad habits. Unfortunately, bad habits are easier to form than good habits. However, there are ways we can encourage the forming of good habits and reduce the forming of bad habits.
+   
+To shape our habits, we should consider four laws or stages of behaviour change:   
+1. Cue   
+2. Craving   
+3. Response   
+4. Reward
+
+#### Cue
+The cue triggers your brain to initiate a behaviour. To form good habits in this stage, make the cues to good behaviour obvious and for bad behaviour invisible or difficult. Make it physically easier to grab a piece of fruit instead of a chocolate bar. 
+   
+To form the habit of a good morning routine, I applied what Clear calls the habit stacking method. The habit stacking formula is: “After [CURRENT HABIT], I will [NEW HABIT].” Using this method, my morning routine now looks like this: 
+   
+*Wake up at 7am, open the blinds, then have a drink of water, then do some exercise, then go for a shower, then get dressed, then meditate, then read a book, then start work at 9am.*
+   
+Because it is precise routine, I know exactly what my next action will be. As a result, the good habits are automated. I would be lying if would say I always stick perfectly to the routine; but I would say 90% of the time I do. 
+   
+#### Cravings
+Cravings are the motivational force behind every habit. When cravings occur, dopamine is released in anticipation of a reward. To form good habits at this stage, you need to make good habits attractive and bad habits unattractive.
+    
+Temptation building is one way to make good habits more attractive, which means combining a habit or behaviour you want to do with one that you need to do. For example, in my morning routine outlined above, when I am exercising, I am either listening to music or a podcast at the same time. Also, before I start to read, I get myself a cup of coffee to enjoy whilst reading. These cravings help me establish a good morning routine because the habits I need to do are made more attractive.
+   
+#### Response
+The response is the action you take. To form good habits in this stage, you need to make a good response easy and a bad response difficult. It often feels like a huge task to lose x amount of weight, gain y amount of muscle, read an entire book, create a blog website, etc. But the best way to get it done is to do small bits at a time.
+    
+The author outlines his *Two-Minute Rule* which states that “when you start a new habit, it should take less than two minutes to do.” For example, read just one page of a book before going to bed; write just one paragraph of a blog at time; do just a couple of stretches instead of a full workout when you wake up. By scaling the task down into easier chunks, it becomes a lot easier to get a good habit going. I often find that getting started is the hardest part; once I have started, it is easy to keep going. 
+   
+#### Reward
+The final stage is the reward, which is the end goal. Rewards are what satisfy our cravings. To encourage good habits, you need to make the reward immediately satisfying. By using positive reinforcement, it increases the chance that good behaviour will be repeated. For example, only after a productive day can I then kick back and relax in the evening and watch telly, play a PlayStation game, or whatever. If I have successfully maintained good habits after a longer period of time, I’ll treat myself to a day off, a shopping purchase or a holiday. As long as you can afford it and the reward doesn’t directly reverse the progress that you are making, you are fine, i.e. don’t eat a tub of ice cream if you are trying to lose weight; don’t have four pints of beer if your goal is to be sober, etc.
+   
+It is also important to find some way of tracking your habits, either by using a calendar, a notepad or some other logging device. If you are tracking your habits honestly, you will visually see your progress over time, which is the best form of motivation. It also makes it easier to recover fast if you break habits. For this, Clear has one simple rule – “Never miss twice”.
+   
+### Conclusion
+Read the book. I can honestly say it has been a game-changer for me.
